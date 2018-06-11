@@ -1,0 +1,3 @@
+numpy
+rle-python-interface
+neat-python==0.92
