@@ -1,4 +1,4 @@
-## Super Mario Neat ##
+## Super Mario NEAT ##
 
 Super Mario World playing agent developed using [Retro Learning Environment](https://github.com/nadavbh12/Retro-Learning-Environment) library as a final project for the Machine Learning course at Universidade Federal do ABC.
 
