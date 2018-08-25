@@ -4,7 +4,9 @@
 
 Super Mario World playing agent developed using [Retro Learning Environment](https://github.com/nadavbh12/Retro-Learning-Environment) library as a final project for the Machine Learning course at Universidade Federal do ABC.
 
-![super_mario_gif](https://user-images.githubusercontent.com/3193712/41251592-c25e7b58-6d90-11e8-9b45-1b59b8f80663.gif)
+<p align="center">
+  <img width="500" height="375" src="https://user-images.githubusercontent.com/3193712/44612988-db180780-a7e3-11e8-82c9-b1ae318740c6.gif">
+</p>
 
 This agent uses Neuroevolution of Augmenting Topologies (NEAT) in order to evolve a Neural Network capable of playing the stage.
 
